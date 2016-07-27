@@ -1,0 +1,25 @@
+#include<stdio.h>
+#include<stdlib.h>
+#include<conio.h>
+void Read(char ch1[9][24],int *a,int *b);
+//从文件中读出信息，存在二维数组ch1中，*a,*b,用于记录'★'位置。
+//为了减少对文件的访问次数，所以把文件中的信息读到数组中。
+
+void Read1(char ch1[9][24],int *a,int *b);
+//从二维数组ch1中读信息，并根据ch1中的各个值输出相应的符号。
+void main()
+{
+	
+    
+	
+	
+}
+void Read(char ch1[9][24],int *a,int *b)
+{
+	
+
+}
+void Read1(char ch1[9][24],int *a,int *b)
+{
+	
+}
